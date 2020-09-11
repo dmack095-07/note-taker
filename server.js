@@ -3,7 +3,7 @@ const express = require("express");
 const fs = require("fs");
 
 
-// Sets up Express App
+// Sets up Express App and Port
 const PORT = process.env.PORT || 3001;
 const app = express();
 
