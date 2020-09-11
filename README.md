@@ -35,3 +35,7 @@
   Here is a link to my [Github Profile](https://github.com/dmack095-07)
 
   You can reach me at dianna.mack@yahoo.com for additional questions!
+  
+  <img width="1440" alt="Screen Shot 2020-09-10 at 10 29 25 PM" src="https://user-images.githubusercontent.com/65475404/92845630-2db9c180-f3b5-11ea-9af5-6a434e70d504.png">
+ For page you can create notes and save them.
+  <img width="1440" alt="Screen Shot 2020-09-10 at 10 31 37 PM" src="https://user-images.githubusercontent.com/65475404/92845988-90ab5880-f3b5-11ea-8a38-f7391f2e8928.png">
