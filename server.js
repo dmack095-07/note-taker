@@ -4,7 +4,7 @@ const fs = require("fs");
 
 
 // Sets up Express App
-const PORT = 3000;
+const PORT = process.env.PORT || 3001;
 const app = express();
 
 // Sets up express app to handle data parsing
